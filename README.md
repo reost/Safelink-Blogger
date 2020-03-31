@@ -74,24 +74,24 @@ Safelink blogger with CryptoJS
             <div class="panel-heading primary-color">
                 <div class="panel-title text-center">
                     <h2>
-						<i class="fa fa-shield"></i>
-						<strong>Generate</strong>
-					</h2>
+			<i class="fa fa-shield"></i>
+			<strong>Generate</strong>
+		    </h2>
                 </div>
             </div>
             <div class="panel-body">
                 <div class="form-group">
                     <div class="input-group">
                         <span class="input-group-addon">
-							<i class="fa fa-link"></i>
-						</span>
+			    <i class="fa fa-link"></i>
+			</span>
                         <input class="form-control" id="generateurl" placeholder="http://example.com" type="url" />
                         <span class="input-group-btn">
-							<button class="btn btn-primary primary-color primary-color-border" id="btngenerate" type="button">
-								<i class="fa fa-shield"></i>
-								<strong>Submit</strong>
-							</button>
-						</span>
+			    <button class="btn btn-primary primary-color primary-color-border" id="btngenerate" type="button">
+			        <i class="fa fa-shield"></i>
+			        <strong>Submit</strong>
+			    </button>
+			 </span>
                     </div>
                 </div>
                 <div class="hidden text-center" id="generateloading">
@@ -100,9 +100,9 @@ Safelink blogger with CryptoJS
                     <div class="form-group has-success">
                         <div class="input-group">
                             <span class="input-group-addon">
-								<strong>Result:</strong>
-								<i aria-hidden="true" class="fa fa-check"></i>
-							</span>
+				<strong>Result:</strong>
+				<i aria-hidden="true" class="fa fa-check"></i>
+			    </span>
                             <input class="form-control" id="resulturl" onclick="this.focus();this.select()" readonly="readonly" type="text" />
                         </div>
                         <br />
@@ -142,3 +142,7 @@ var setting = {
 <script src='https://rawcdn.githack.com/reost/safelink/e9156d98b1dc5afff78426446a3fab5836f7aabb/exclude.js'></script>
 <script src='https://www.blogger.com/feeds/YOUR_SAFELINK_BLOG_ID/posts/default?alt=json-in-script&amp;max-results=150&amp;callback=showurl'></script>
 ```
+
+---
+
+> note : change  **YOUR_SAFELINK_BLOG_ID** with your safelink blog id
