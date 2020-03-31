@@ -127,7 +127,7 @@ var setting = {
 	path : "#?o="
 	};
 </script>
-<script src='https://rawcdn.githack.com/reost/safelink/e9156d98b1dc5afff78426446a3fab5836f7aabb/include.js'></script>
+<script src='https://rawcdn.githack.com/reost/Safelink-Blogger/cafe1e8574677a79632609f4b2b119b1705dbf20/include.js'></script>
 <script src='https://www.blogger.com/feeds/YOUR_SAFELINK_BLOG_ID/posts/default?alt=json-in-script&amp;max-results=150&amp;callback=showurl'></script>
 ```
 
@@ -139,7 +139,7 @@ var setting = {
 	path : "#?o="
 	};
 </script>
-<script src='https://rawcdn.githack.com/reost/safelink/e9156d98b1dc5afff78426446a3fab5836f7aabb/exclude.js'></script>
+<script src='https://rawcdn.githack.com/reost/Safelink-Blogger/cafe1e8574677a79632609f4b2b119b1705dbf20/exclude.js'></script>
 <script src='https://www.blogger.com/feeds/YOUR_SAFELINK_BLOG_ID/posts/default?alt=json-in-script&amp;max-results=150&amp;callback=showurl'></script>
 ```
 
