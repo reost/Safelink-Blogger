@@ -4845,11 +4845,6 @@ gotolink.on("click",function(){
 var realurl = aesCrypto.decrypt(convertstr($.urlParam('o')),convertstr('root'));
 window.location.href=realurl;
 });
-fuckAdBlock.on(true, function() {
-$("#adbs").html("Adblock Detected");
-$("#adb").removeClass('hidden');
-}).on(false, function() {
-});
 })
 //]]>
 
