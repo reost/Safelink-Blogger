@@ -2823,7 +2823,6 @@ head.appendChild(script);
 <!-- menu navigasi header start -->
 <ul>
     <li><a href='#'>MENU</a></li>
-	<li><a href='/p/safelink.html'>Safelink</a></li>
 </ul>
 <!-- menu navigasi header end -->
 </nav>
@@ -4598,12 +4597,12 @@ else {
   
 <!-- menu navigasi footer start -->
 <ul>
-  <li><a href='/p/about.html'>About</a></li>
-  <li><a href='/p/contact.html'>Contact</a></li>
-  <li><a href='/p/sitemap.html'>Sitemap</a></li>
-  <li><a href='/p/disclaimer.html'>Disclaimer</a></li>
-  <li><a href='/p/privacy-policy.html'>Privacy</a></li>
-  <li><a href='/p/terms-of-service.html'>TOS</a></li>
+  <li><a href='#'>About</a></li>
+  <li><a href='#'>Contact</a></li>
+  <li><a href='#'>Sitemap</a></li>
+  <li><a href='#'>Disclaimer</a></li>
+  <li><a href='#'>Privacy</a></li>
+  <li><a href='#'>TOS</a></li>
 </ul>
 <!-- menu navigasi footer end -->
 
